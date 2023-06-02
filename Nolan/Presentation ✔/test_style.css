@@ -1,0 +1,48 @@
+body {
+	background-image: url('https://www.10wallpaper.com/wallpaper/1366x768/1610/Cute_gray_cat_eyes-Animal_High_Quality_Wallpaper_1366x768.jpg');
+background-size: cover;
+}
+h1
+
+{
+color : white;
+
+
+}
+p
+{
+color : white;
+font-size: large;
+width: 100%;
+text-align: center;
+border : white;
+}
+
+table {
+	background-color: black;
+
+
+}
+tr {
+
+	color: white;
+}
+h1{
+	text-align: center;
+	text-shadow:5px;
+}
+ul {
+color: white;
+}
+ol {
+color: white;
+}
+h2 {
+color: white;
+}
+h3 {
+color: white;
+}
+h4 {
+color: white;
+}
